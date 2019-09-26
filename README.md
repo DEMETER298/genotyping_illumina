@@ -1,5 +1,4 @@
-# VCF2ABH: 
-##converter from VCF to ABH format (for illumina platform)
+# VCF2ABH: converter from VCF to ABH format 
 
 Usage:
 
