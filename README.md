@@ -22,8 +22,8 @@ perl VCF2ABH.pl -in test.vcf -out test_ABH.csv -A Nankanzairai -B PGC157
 IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding.   
 Ogiso-Tanaka E, Yabe S and Tanaka T  
 Breeding Science (in submitted)  
-URL    
-PDF  
+URL : XXXXXXXXX  
+PDF : XXXXXXXXX  
 
 
 ## License
