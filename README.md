@@ -19,11 +19,13 @@ perl VCF2ABH.pl -in test.vcf -out test_ABH.csv -A Nankanzairai -B PGC157
 
 
 ## Citing VCF2ABH
-IonBreeders: bioinformatics plugins toward genomics-assisted breeding.   
-Ogiso-Tanaka E, Yabe S and Tanaka T  
-Breeding Science (in press)  
-URL : XXXXXXXXX  
-PDF : XXXXXXXXX  
+Ogiso-Tanaka E, Yabe S and Tanaka T (2020)
+
+**IonBreeders: automated bioinformatics plugins toward genomics-assisted breeding.**
+
+Breeding Science 70（３）: 396-401.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7372021/
 
 
 ## License
